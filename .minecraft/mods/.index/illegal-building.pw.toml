@@ -1,0 +1,13 @@
+filename = 'IllegalBuilding-1.21-6.0.0.jar'
+name = 'Illegal Building'
+side = 'both'
+
+[download]
+hash = '818b5bfe835ef8fb390c971776ff90bff8f71dde874fd638c457b1361af5922c2e5996a58ed3b83c9f33e1856ba8800901bdb3ad0e76eb43cacbdd46462309cd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C98s3kpF/versions/rVwhVsCb/IllegalBuilding-1.21-6.0.0.jar'
+
+[update.modrinth]
+mod-id = 'C98s3kpF'
+version = 'rVwhVsCb'

@@ -1,0 +1,86 @@
+Curios Compat Layer for Accessories
+Accessories
+Applied Energistics 2
+AppleSkin
+Architectury API
+Athena
+AzureLib
+Balm
+Breeze Bounce
+Ceiling Torch
+Chipped
+Cloth Config API
+Common Network
+Controlling
+Corpse
+Cucumber Library
+Dynamic FPS
+ElevatorMod
+EMI Enchanting
+EMI Loot
+EMI professions (EMIP)
+EMI
+Ender IO
+[ETF] Entity Texture Features
+Euphoria Patches
+Explorify
+Extended AE
+Extended Industrialization
+FerriteCore
+ForceCraft
+Forge Config API Port
+FramedBlocks
+Functional Storage
+Fusion (Connected Textures)
+Fzzy Config
+Geckolib
+Glodium
+Illegal Building
+ImmediatelyFast
+Iris Shaders
+Iron Furnaces
+Iron Jetpacks
+Jade 🔍
+JourneyMap
+Kotlin for Forge
+KubeJS
+Lootr
+MEGA Cells
+ME Requester
+MES - Moog's End Structures
+MI Tweaks
+Modern Dynamics
+ModernFix
+Modern Industrialization
+Modern Industrialization Sound Addon
+Moonlight Lib
+Mouse Tweaks
+Nullscape
+Patchouli
+Rechiseled: Chipped
+Rechiseled
+Reese's Sodium Options
+Resourceful Lib
+Rhino
+Saturated
+Searchables
+Sodium Extra
+Sodium
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+Spelled
+SuperMartijn642's Config Lib
+SuperMartijn642's Core Lib
+Tectonic
+Terralith
+Tesseract API
+Titanium
+TorchMaster
+Trash Cans
+TrashSlot
+Useful Slime
+Wabi-Sabi Structures
+Waystones
+Yeetus Experimentus
+Zume

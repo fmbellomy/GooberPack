@@ -1,0 +1,13 @@
+filename = 'EuphoriaPatcher-1.4.1-r5.3-neoforge.jar'
+name = 'Euphoria Patches'
+side = 'client'
+
+[download]
+hash = 'bc25c7c5740dfe05cef818bbe780880220bf61d0a07dc410be1e0b52ebc91cec2d8b2d428ff4df0caf2e154bd45d76fc81cc5346303dffa5d3dc46e744cca0a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4H6sumDB/versions/bl9jxKJF/EuphoriaPatcher-1.4.1-r5.3-neoforge.jar'
+
+[update.modrinth]
+mod-id = '4H6sumDB'
+version = 'bl9jxKJF'

@@ -1,0 +1,13 @@
+filename = 'Spelled-1.21.1-0.8.0.jar'
+name = 'Spelled'
+side = 'both'
+
+[download]
+hash = 'f81ae9c2b82024f42cbdec95cb17ca7feffeeb246f89166dd510883fcc8e6563fe128a48269626d1a93bbe9dcf31d1061a6c7868149d0e2bb4051f57cd4d6eff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jxcnrNpQ/versions/SBVPsZmf/Spelled-1.21.1-0.8.0.jar'
+
+[update.modrinth]
+mod-id = 'jxcnrNpQ'
+version = 'SBVPsZmf'

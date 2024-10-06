@@ -1,0 +1,13 @@
+filename = 'megacells-4.0.2.jar'
+name = 'MEGA Cells'
+side = 'both'
+
+[download]
+hash = '720011eaeafa6274a455c349866ee6e6440d3bbac151c91ed6cbeb49bddef32e1610aa4106b2eda8337b57b218a2e84f722f11e58bb46bb7f1b0ae09cecbc9a9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jjuIRIVr/versions/QBZorwdy/megacells-4.0.2.jar'
+
+[update.modrinth]
+mod-id = 'jjuIRIVr'
+version = 'QBZorwdy'

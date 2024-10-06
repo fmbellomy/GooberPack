@@ -1,0 +1,13 @@
+filename = 'saturated-0.21.01.jar'
+name = 'Saturated'
+side = 'server'
+
+[download]
+hash = 'ef92a97d184573092ac90f9822f3e16e4b94f474be0d11b5b862970df638b40f82fb3ea79b87dc439b850d7633929fc2939236c1bf0168e1ad0e236995bd1f81'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eBiNxmRM/versions/QYKwG81n/saturated-0.21.01.jar'
+
+[update.modrinth]
+mod-id = 'eBiNxmRM'
+version = 'QYKwG81n'

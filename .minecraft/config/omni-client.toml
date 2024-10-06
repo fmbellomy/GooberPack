@@ -1,0 +1,13 @@
+[movement]
+	#Forward sprint speed multiplier
+	#Range: 0.0 ~ 99999.0
+	forward_multiplier = 0.28
+	#Backward sprint speed multiplier
+	#Range: 0.0 ~ 99999.0
+	backward_multiplier = 0.28
+	#Left sprint speed multiplier
+	#Range: 0.0 ~ 99999.0
+	left_multiplier = 0.28
+	#Right sprint speed multiplier
+	#Range: 0.0 ~ 99999.0
+	right_multiplier = 0.28

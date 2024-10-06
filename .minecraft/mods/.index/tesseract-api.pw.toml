@@ -1,0 +1,13 @@
+filename = 'tesseract-neoforge-1.5.4-beta-1.21.1.jar'
+name = 'Tesseract API'
+side = 'both'
+
+[download]
+hash = '588a03d83f9bc87267fb6958226283af7fd2dd7842b5bca2bb2e00d3b7ba60e92c77385ee4d13e76e4373841dd3904ee7f4ea4e74da5b837aad59f075572130b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pHNT1iyc/versions/3ANIk7wR/tesseract-neoforge-1.5.4-beta-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'pHNT1iyc'
+version = '3ANIk7wR'

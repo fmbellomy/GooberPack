@@ -1,0 +1,13 @@
+filename = 'sophisticatedbackpacks-1.21-3.20.16.1111.jar'
+name = 'Sophisticated Backpacks'
+side = 'both'
+
+[download]
+hash = 'a1f84346f181b9dfe23737fb70717d3692397049fb9546e2ebdac6db6ef90f3535d5311ccf5100c82c19d63f74e5fae49dc2ca058c300b31823961f5dd775bdb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TyCTlI4b/versions/xq7Ybb9r/sophisticatedbackpacks-1.21-3.20.16.1111.jar'
+
+[update.modrinth]
+mod-id = 'TyCTlI4b'
+version = 'xq7Ybb9r'

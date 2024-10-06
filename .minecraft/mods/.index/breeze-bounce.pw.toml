@@ -1,0 +1,13 @@
+filename = 'breezebounce-neoforge-1.21-1.0.1.jar'
+name = 'Breeze Bounce'
+side = 'both'
+
+[download]
+hash = 'e3966d215c8511e648f39e67772c5e6c426ae91ec61a6f3f995161f98d11e2887ec44cfa3e77e372e4abafa74a39ed7da0e5827c95aef5661be1d62bae601ba9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vBoXEK2I/versions/vOsij9iL/breezebounce-neoforge-1.21-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'vBoXEK2I'
+version = 'vOsij9iL'

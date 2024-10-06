@@ -1,0 +1,13 @@
+filename = 'mi_sound_addon-1.1.2-1.21.jar'
+name = 'Modern Industrialization Sound Addon'
+side = 'both'
+
+[download]
+hash = 'd1c3faf6ac7b479b34948be7292c4503cf85a15f321d07745283f651ae994e9d5872b002be32a4a99721a2ca7dcfd53e34d0d4c82365084a5c0ae19e4b429d64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Kk4xvy7w/versions/Ja6eDohi/mi_sound_addon-1.1.2-1.21.jar'
+
+[update.modrinth]
+mod-id = 'Kk4xvy7w'
+version = 'Ja6eDohi'

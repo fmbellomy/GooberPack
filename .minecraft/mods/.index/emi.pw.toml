@@ -1,0 +1,13 @@
+filename = 'emi-1.1.14+1.21.1+neoforge.jar'
+name = 'EMI'
+side = 'both'
+
+[download]
+hash = '8fce9b39eb05f4f1e9711ba8209be7455eed1dfda7c77245061701e820322f9c5e93c073666575f162e9fdd8eb7a3b792370d6751be24500caedcff58f10e798'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fRiHVvU7/versions/Cv4nuaNq/emi-1.1.14%2B1.21.1%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'fRiHVvU7'
+version = 'Cv4nuaNq'

@@ -1,0 +1,13 @@
+filename = 'Modern-Dynamics-0.9.2.jar'
+name = 'Modern Dynamics'
+side = 'both'
+
+[download]
+hash = 'e43232725475137301819381dcae6733693e956f83e98a46ccbf73d473b88d234d21119e7b5bd318156738c1dde934528e5f322962f42552a6e648f013fe18f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fMpvLrnF/versions/rQt4tRDQ/Modern-Dynamics-0.9.2.jar'
+
+[update.modrinth]
+mod-id = 'fMpvLrnF'
+version = 'rQt4tRDQ'

@@ -1,0 +1,27 @@
+shaderpacks/
+texturepacks/
+server-resource-packs/
+screenshots/
+saves/
+resourcepacks/
+patchouli_books/
+.minecraft/mods/*.jar
+logs/
+local/
+journeymap/
+downloads/
+crash-reports/
+coremods/
+.mixin.out/
+.cache/
+command_history.txt
+*.log
+realms_persistence.json
+TrashSlotSaveState.json
+usercache.json
+usernamecache.json
+patchouli_data.json
+emi.json
+# currently unsure of if i want to ship an options.txt with the modpack
+# there is probably a better way of shipping defaults
+options.txt

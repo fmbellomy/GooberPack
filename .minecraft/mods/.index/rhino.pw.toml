@@ -1,0 +1,13 @@
+filename = 'rhino-2101.2.5-build.54.jar'
+name = 'Rhino'
+side = 'both'
+
+[download]
+hash = '204be26b07793daaac18504b40dbe9a5d2105b9943b4acf091b9f54b787a0878bc8d80bce8620370a4a4d7824a0057cc4146e7eed089feb325d922e5870cc282'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sk9knFPE/versions/kox3FBVc/rhino-2101.2.5-build.54.jar'
+
+[update.modrinth]
+mod-id = 'sk9knFPE'
+version = 'kox3FBVc'

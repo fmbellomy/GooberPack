@@ -1,0 +1,13 @@
+filename = 'enderio-7.0.7-alpha.jar'
+name = 'Ender IO'
+side = 'both'
+
+[download]
+hash = 'ed43c53ddbcab98af31e4c2d5bd2505faeb53d740158b9f559bdbc6783cef972cdc27cc63ab3ad39196115c39f4a8151bc6123a6c08bf5d5ef8cd6baecbef1e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/49ZofO4f/versions/AzTCyAPX/enderio-7.0.7-alpha.jar'
+
+[update.modrinth]
+mod-id = '49ZofO4f'
+version = 'AzTCyAPX'

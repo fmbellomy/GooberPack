@@ -1,0 +1,13 @@
+filename = 'extended-industrialization-1.9.4-beta-1.21.1.jar'
+name = 'Extended Industrialization'
+side = 'both'
+
+[download]
+hash = 'e2dc09cb3ca044279f744f269e9ea8a150ad9b416dfe3142f1a2609c97c23a5102f00687ba0a348bac09fd23b90841c5b064161147bdaa0e008f5b373f9696f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CCM0U9YU/versions/JqmDj95q/extended-industrialization-1.9.4-beta-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'CCM0U9YU'
+version = 'JqmDj95q'

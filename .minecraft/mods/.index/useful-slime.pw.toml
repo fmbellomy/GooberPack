@@ -1,0 +1,13 @@
+filename = 'UsefulSlime-neoforge-1.21-1.11.0.jar'
+name = 'Useful Slime'
+side = 'both'
+
+[download]
+hash = '592ab2569816642d931e0d388feef2c76a7ba75287acc7aa087e1212f1eaf9224ddd4b0a253d89cb70cbd9a26f3a48a560935ce1c42a9f3f52c3107f26cbc347'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CzM6C1W0/versions/6cFpExvn/UsefulSlime-neoforge-1.21-1.11.0.jar'
+
+[update.modrinth]
+mod-id = 'CzM6C1W0'
+version = '6cFpExvn'

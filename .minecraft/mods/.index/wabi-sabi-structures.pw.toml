@@ -1,0 +1,13 @@
+filename = 'Wabi-Sabi Structures 3.0.1-1.21.jar'
+name = 'Wabi-Sabi Structures'
+side = 'server'
+
+[download]
+hash = '8df02d44c38f8a84b84be269b77687d7dc5e580bf96a4b508c01979c538ff0d0ac06512f1959ad0f22c88f69667a48a495ebb527cd5b52c9c3f9aee1464118a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vr3O6THr/versions/NdFZCyPb/Wabi-Sabi Structures 3.0.1-1.21.jar'
+
+[update.modrinth]
+mod-id = 'Vr3O6THr'
+version = 'NdFZCyPb'

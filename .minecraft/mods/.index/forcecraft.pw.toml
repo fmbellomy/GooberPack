@@ -1,0 +1,13 @@
+filename = 'forcecraft-1.21.1-6.0.5.jar'
+name = 'ForceCraft'
+side = 'both'
+
+[download]
+hash = '0feda2719f2773bcf62ad00cd9f6f31d8a6b1b62f7df0d91c08813f1338778e0ab2247515de7063e14911b232f75cb36d4badc404dc34747c6876c2df696cd74'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Nwz7U1QT/versions/WGkK8bP1/forcecraft-1.21.1-6.0.5.jar'
+
+[update.modrinth]
+mod-id = 'Nwz7U1QT'
+version = 'WGkK8bP1'

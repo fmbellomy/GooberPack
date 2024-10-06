@@ -1,0 +1,13 @@
+filename = 'supermartijn642corelib-1.1.17i-neoforge-mc1.21.jar'
+name = "SuperMartijn642's Core Lib"
+side = 'both'
+
+[download]
+hash = '97398225c62e275e71ae79bd2c0ce4d2ea84b729ee320ed08351136b66d572f366eff1355199fcf4b61582b2b3e147f8658b3f30e0773b9ffa2904a7ac546ccf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rOUBggPv/versions/tZ82tq1U/supermartijn642corelib-1.1.17i-neoforge-mc1.21.jar'
+
+[update.modrinth]
+mod-id = 'rOUBggPv'
+version = 'tZ82tq1U'

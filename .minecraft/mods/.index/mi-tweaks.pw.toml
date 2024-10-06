@@ -1,0 +1,13 @@
+filename = 'mi-tweaks-1.5.3-beta-1.21.1.jar'
+name = 'MI Tweaks'
+side = 'both'
+
+[download]
+hash = '8ba00739901ebb9496dacdfd29f95edc6a475f142b90719941392f0de2e953648e721f8ecb4a72abb614ce859f928d355aaf477fc7705ad6f9c46465c607d185'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tJGIBxPC/versions/On56WC0G/mi-tweaks-1.5.3-beta-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'tJGIBxPC'
+version = 'On56WC0G'
