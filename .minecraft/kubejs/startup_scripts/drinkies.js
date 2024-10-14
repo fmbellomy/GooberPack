@@ -13,11 +13,6 @@ StartupEvents.registry("item", (event) => {
       bucketID.indexOf(":"),
       bucketID.indexOf("bucket")
     );
-    console.log("{");
-    console.log("  fluid: " + fluid_name);
-    //@ts-expect-error | Item.of(bucketID).item will be of type MIBucketItem, which has a public color attribute
-    console.log("  color: " + Item.of(bucketID).item.color);
-    console.log("}");
     event
       .create(fluid_name + "drinky")
       .textures({
