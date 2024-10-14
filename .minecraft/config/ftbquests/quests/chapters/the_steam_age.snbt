@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_steam_age"
+	group: "5372F0E96DD1B8B5"
+	id: "4D7C0F44FFD17F57"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "2358054392048486"
+		tasks: [{
+			id: "411674362DA04D96"
+			type: "checkmark"
+		}]
+		x: -4.5d
+		y: -4.0d
+	}]
+}

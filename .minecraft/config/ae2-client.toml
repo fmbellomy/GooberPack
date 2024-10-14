@@ -51,4 +51,4 @@
 	showCellContent = true
 	#The maximum number of content entries to show in the tooltip of storage cells, color applicators and matter cannons
 	#Range: 1 ~ 32
-	maxCellContentShown = 5
+	maxCellContentShown = 32

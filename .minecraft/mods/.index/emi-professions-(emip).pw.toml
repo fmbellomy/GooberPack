@@ -1,13 +1,13 @@
-filename = 'EMIProfessions-neoforge-1.21.1-1.0.1.jar'
-name = 'EMI professions (EMIP)'
-side = 'client'
+filename = 'EMIProfessions-neoforge-1.21.1-1.0.2.jar'
+name = 'EMI Professions (EMIP)'
+side = 'both'
 
 [download]
-hash = 'b8c1cf755344b6db5b74444313d102dd1682e0ddd0e3bd02d6887a01d7678ccd317d66f703ffc02beb6face2f66022716d0c5f59e56eb492b27ef4149a927b85'
+hash = '263c97308a23c45247e4308d5fd72b3f2b792715b71688aa3048a04f17504a869e129883d0e118626595a552a6754aa0ca2ab4d53e53a73bd3bbb0d6cdcffc87'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/LGVihYcz/versions/QDrxDPbJ/EMIProfessions-neoforge-1.21.1-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/LGVihYcz/versions/W5hL1ks0/EMIProfessions-neoforge-1.21.1-1.0.2.jar'
 
 [update.modrinth]
 mod-id = 'LGVihYcz'
-version = 'QDrxDPbJ'
+version = 'W5hL1ks0'

@@ -1,0 +1,13 @@
+filename = 'FarmersDelight-1.21.1-1.2.4a.jar'
+name = "Farmer's Delight"
+side = 'both'
+
+[download]
+hash = 'f120919f4b9a09b064b9767d38a400d4e0d8a0f79cd5a98ade7304372b03cdb7e710102effd95051064b926c11f24f0fc99f63ca395fa56c8cb5d893f7342777'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/R2OftAxM/versions/gXxUKCWt/FarmersDelight-1.21.1-1.2.4a.jar'
+
+[update.modrinth]
+mod-id = 'R2OftAxM'
+version = 'gXxUKCWt'

@@ -1,0 +1,13 @@
+filename = 'extradelight-2.0.4.jar'
+name = 'ExtraDelight'
+side = 'both'
+
+[download]
+hash = '28026b925719467c4061827cd1a8c086b676cd259bc7a422fc29793a834700882683ff9e49e4ce46828545d004bd92cca6ee7a56574adcda8b889db41a632e0c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yRrY3XII/versions/hP6LRiOx/extradelight-2.0.4.jar'
+
+[update.modrinth]
+mod-id = 'yRrY3XII'
+version = 'hP6LRiOx'
