@@ -1,7 +1,7 @@
 #General settings
 [general]
 	#Decides are given the Tome of Knowledge when starting a world
-	startWithBook = true
+	startWithBook = false
 	#Decides the range in which players around you can hear the spells cast (-1 for server spam) [Default: 16]
 	#Range: > -1
 	proximity = 16
