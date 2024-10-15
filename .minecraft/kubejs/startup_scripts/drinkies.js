@@ -45,7 +45,7 @@ let effectsMap = {
     return itemstack;
   },
 };
-// function that is run whenever you consume a drinky
+// function that is run whenever you consume a drinky.
 // this is global so that way hot-reloading works
 global.consumeDrinky = (itemstack, entity) => {
   // only run this if the consuming entity is a player
