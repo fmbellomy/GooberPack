@@ -25,9 +25,12 @@ emi.json
 modlist.txt
 .vscode/
 data/
+instance.cfg
+.probe/
+modern_industrialization/
+# these two refuse to actually be ignored for some reason?
+.minecraft/config/iris.properties
+.minecraft/config/fabric/indigo-renderer.properties
 # currently unsure of if i want to ship an options.txt with the modpack
 # there is probably a better way of shipping defaults
 options.txt
-instance.cfg
-.minecraft/config/iris.properties
-.minecraft/config/fabric/indigo-renderer.properties
