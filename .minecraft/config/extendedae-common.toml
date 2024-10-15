@@ -4,7 +4,7 @@
 	extended_io_bus_multiplier = 8
 	#The max range between two wireless connector
 	#Range: 10.0 ~ 10000.0
-	wireless_connector_max_range = 1000.0
+	wireless_connector_max_range = 200.0
 	#Size multiplier of oversize interface
 	#Range: 2 ~ 4096
 	oversize_interface_multiplier = 16

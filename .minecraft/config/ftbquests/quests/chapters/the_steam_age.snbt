@@ -8,6 +8,14 @@
 	quest_links: [ ]
 	quests: [{
 		id: "2358054392048486"
+		rewards: [{
+			id: "7514221A9A71678A"
+			item: {
+				count: 1
+				id: "modern_industrialization:guidebook"
+			}
+			type: "item"
+		}]
 		tasks: [{
 			id: "411674362DA04D96"
 			type: "checkmark"

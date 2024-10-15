@@ -2,7 +2,7 @@
 	#Whether blocks with block entities can be placed in framed blocks
 	allowBlockEntities = false
 	#Enables the intangbility feature. Disabling this also prevents moving through blocks that are already marked as intangible
-	enableIntangibleFeature = false
+	enableIntangibleFeature = true
 	#If true, only the player who placed the Framed One-Way Window can modify the window direction
 	oneWayWindowOwnable = true
 	#If true, applying a camo will consume the item and removing the camo will drop it again
@@ -11,7 +11,7 @@
 	#Range: 0 ~ 15
 	glowstoneLightLevel = 15
 	#If true, framed blocks are completely fire proof
-	fireproofBlocks = false
+	fireproofBlocks = true
 
 [powered_framing_saw]
 	#The amount of power the Powered Framing Saw can store
