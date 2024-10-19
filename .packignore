@@ -34,6 +34,9 @@
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 .packignore
+patchnotes.md
+QuestDraft.md
+make_server_files.py
 TODO.md
 generate_modlist.sh
 known_bugs.md

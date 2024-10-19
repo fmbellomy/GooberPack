@@ -16,6 +16,7 @@
 - AE2WTLib
 - RightClickHarvest
 - JamLib
+- Building Gadgets
 
 ### Removed
 
