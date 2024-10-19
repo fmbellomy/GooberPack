@@ -1,0 +1,16 @@
+- Drinkies
+  - Possible infinity enchantment support for some drinkies
+    - especially for minor effects like "stop hitting yourself!"
+- Questbook
+  - MI Steam Age
+  - MI Early Electric Age (LV)
+  - MI Electric Age (MV-EV)
+  - MI Lategame (IV+)
+- MI integration for framed blocks
+- Beating the pack rewards you with a Creeper Tot Spawner
+- Custom Sophisticated (Backpacks|Storage) tiers, remove vanilla materials
+- Custom Iron Furnace tiers? If that's actually feasible, anyway
+- Create Integration
+- MI "Phytogenic Insulator" style machine, requires liquid fertilizer as an input.
+- Spectrum Integration
+- Dimension specific quarries/recipes
