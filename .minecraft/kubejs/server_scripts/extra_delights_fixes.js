@@ -1,7 +1,3 @@
-const {
-  $ShulkerBoxFromChestRecipe$Serializer,
-} = require("net.p3pp3rf1y.sophisticatedstorage.crafting.ShulkerBoxFromChestRecipe$Serializer");
-
 // composting (scale is from 0.0 - 1.0)
 ServerEvents.compostableRecipes((event) => {
   const DEFAULT_COMPOST_RATE = 0.3;
