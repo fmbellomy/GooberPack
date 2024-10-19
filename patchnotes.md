@@ -20,9 +20,13 @@
 
 ### Removed
 
-- Distant Horizons [Removed]
+- Distant Horizons
   - DH was crashing games when shaders were enabled in single player, so it's no longer being included by default.
 
 ### Updated
 
 I forgot to keep track of individual mod updates and I don't want to go read the git log so I will not be filling this out teehee.
+
+## Config/KubeJS changes
+
+- Adds composting functionality to various items from Extra Delight and poisonous potatoes.
