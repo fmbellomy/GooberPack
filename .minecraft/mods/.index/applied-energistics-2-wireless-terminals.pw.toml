@@ -1,0 +1,13 @@
+filename = 'ae2wtlib-19.1.6-beta.jar'
+name = 'Applied Energistics 2 Wireless Terminals'
+side = 'both'
+
+[download]
+hash = '7620b23c9f3e1d1c7aaeaaa7b2ef8a6f9a4809619c150459f6d5165189ecd6b509eeb12e0455ce807966a4b709b980ede0c78abcc389b1864c90adfe66ee184c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pNabrMMw/versions/sByIMks5/ae2wtlib-19.1.6-beta.jar'
+
+[update.modrinth]
+mod-id = 'pNabrMMw'
+version = 'sByIMks5'

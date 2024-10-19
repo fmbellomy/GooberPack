@@ -1,13 +1,13 @@
-filename = 'kubejs-neoforge-2101.7.0-build.171.jar'
+filename = 'kubejs-neoforge-2101.7.1-build.181.jar'
 name = 'KubeJS'
 side = 'both'
 
 [download]
-hash = '6eaf1795c88c9ed09c8cfef2ebef0c6a298842edd5bd931940989c26a876c671eb4c48f697076a87b732d0a8f19f81c335ff3821bdc109592f9caf4c81863b0f'
+hash = '25531dc40cee02012384c6cf645829db27816c5d107baa9aa118885fbd418237ff43974451a52f1671be6cd075dbf33cbeb20df5eaf33cd31421ef5f66413726'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/umyGl7zF/versions/iB65It7g/kubejs-neoforge-2101.7.0-build.171.jar'
+url = 'https://cdn.modrinth.com/data/umyGl7zF/versions/3w2ufpfQ/kubejs-neoforge-2101.7.1-build.181.jar'
 
 [update.modrinth]
 mod-id = 'umyGl7zF'
-version = 'iB65It7g'
+version = '3w2ufpfQ'

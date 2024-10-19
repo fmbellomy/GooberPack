@@ -1,13 +1,13 @@
-filename = 'Glodium-1.21-2.1-neoforge.jar'
+filename = 'Glodium-1.21-2.2-neoforge.jar'
 name = 'Glodium'
 side = 'both'
 
 [download]
-hash = '30e0148789cfd0e97d5955a65bd74db05a1405c1'
+hash = '9f61a3162665ad0b37f6f268339ac98097af1a87'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5787208
+file-id = 5821676
 project-id = 957920

@@ -1,0 +1,13 @@
+filename = 'jamlib-neoforge-1.0.11+1.21.jar'
+name = 'JamLib'
+side = 'both'
+
+[download]
+hash = '3e7bbcc76a314a6224783f9705ebea67d90f3d0d6e1b79bcfeb07165f3fcf69daf1ab511757aae1b2a012e240f163db0bc76a57def19f3905f547cef32e50a04'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IYY9Siz8/versions/ti4g9gmV/jamlib-neoforge-1.0.11%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'IYY9Siz8'
+version = 'ti4g9gmV'

@@ -1,13 +1,13 @@
-filename = 'common-networking-neoforge-1.0.16-1.21.1.jar'
+filename = 'common-networking-neoforge-1.0.17-beta-1.21.1.jar'
 name = 'Common Networking'
 side = 'both'
 
 [download]
-hash = '2f48e88581fb45b121b3b5e4baeba1740a6f865c05aaaa77282918a0331056bb48ddd38601a16cbe0fda2ea06c3ae68834432e552c655cb27e6f8446bacf6836'
+hash = 'c6ebce64cc9e11918bbd611cc1d865930fb84c84035342e27168bed0909bc2ca60bf52a458cb99b1fdc46737d52bb927f7072e127a0380c64fdd005c919fba6a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/HIuqnQpi/versions/dfWbO4Fc/common-networking-neoforge-1.0.16-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/HIuqnQpi/versions/uUfst5bg/common-networking-neoforge-1.0.17-beta-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'HIuqnQpi'
-version = 'dfWbO4Fc'
+version = 'uUfst5bg'

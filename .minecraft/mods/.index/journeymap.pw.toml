@@ -1,13 +1,13 @@
-filename = 'journeymap-neoforge-1.21-6.0.0-beta.27.jar'
-name = 'JourneyMap'
+filename = 'journeymap-neoforge-1.21.1-6.0.0-beta.28.jar'
+name = 'Journeymap'
 side = 'both'
 
 [download]
-hash = 'da06ad9e86c2f01c9f5fd1b34ec5fd3a5a47c78cdbc5c64fae3d0bc00f08a23cdac7b71105c893b6b87d577efcae0eb6692a93ad8a8efe3a4779ebade81bad0d'
+hash = 'bd0d11339ee430fbfc329b88c47149acc68ef9d9f2fddcd882369729730287e0e816c17b8024ede4d921299660b537b78bca1b1b250fe58e4c2e7698c22bf48b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/lfHFW1mp/versions/CZ1JwxMf/journeymap-neoforge-1.21-6.0.0-beta.27.jar'
+url = 'https://cdn.modrinth.com/data/lfHFW1mp/versions/wRBvrJPG/journeymap-neoforge-1.21.1-6.0.0-beta.28.jar'
 
 [update.modrinth]
 mod-id = 'lfHFW1mp'
-version = 'CZ1JwxMf'
+version = 'wRBvrJPG'

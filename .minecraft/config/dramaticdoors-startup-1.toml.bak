@@ -1,0 +1,6 @@
+Mixins = {}
+
+#Dramatic Doors
+[Experimental]
+	#Development mode ensures that all compat doors are always registered regardless of whether mods are installed or not, for development purposes.  Default: false
+	dev_mode = false

@@ -1,13 +1,13 @@
-filename = 'chipped-neoforge-1.21.1-4.0.1.jar'
+filename = 'chipped-neoforge-1.21.1-4.0.2.jar'
 name = 'Chipped'
 side = 'both'
 
 [download]
-hash = '7bff5d17ca20a287ae8d7f4bbe61ac9bb063f97bb0a15a35cffb1c71575f5a9c95e4a718f6afe5d2194028d183f675e0f8ff6d47e55dbfc178c77772f5f97517'
+hash = 'f3083b01267e7c674c4b42f45a317c93ee7723443cba2051fe5bc593638b533b0fe90699e2101661c934dff458eab693cce4e188533bfe977778c249563a2fa5'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/BAscRYKm/versions/vGbUcv5A/chipped-neoforge-1.21.1-4.0.1.jar'
+url = 'https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar'
 
 [update.modrinth]
 mod-id = 'BAscRYKm'
-version = 'vGbUcv5A'
+version = 'eqVowbGc'

@@ -1,7 +1,7 @@
 #Friends
 [friend_settings]
 	#A list of users who can be chosen when it spawns a distant friend
-	friends = ["_abominable", "RotatingBuffalo", "SkullTuna2", "ToastedSpades", "OliverTheCrow_", "Blackwood_Sama"]
+	friends = ["_abominable", "RotatingBuffalo", "SkullTuna2", "ToastedSpades", "OliverTheCrow_", "Blackwood_Sama", "LlNGUINE", "xXAurabombXx"]
 	#Add the players from the whitelist to the Friends list [default: true]
 	addWhitelistPlayers = true
 

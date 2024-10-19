@@ -1,0 +1,13 @@
+filename = 'OctoLib-NEOFORGE-0.4.2.jar'
+name = 'OctoLib'
+side = 'both'
+
+[download]
+hash = 'ad48c7e355f1424a0bce8bba18beedb70523d6ba1edfb41026f226e5c5176fa5620fdeeae462c6fd0c1edd97d35eba2a28151955ff23eb69730ffbe94dd244d9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RH2KUdKJ/versions/1Yn9tKNv/OctoLib-NEOFORGE-0.4.2.jar'
+
+[update.modrinth]
+mod-id = 'RH2KUdKJ'
+version = '1Yn9tKNv'

@@ -5,6 +5,7 @@ ServerEvents.recipes((recipeEvent) => {
     "energetic_alloy",
     "vibrant_alloy",
   ];
+  const stupidItem = Item.of("minecraft:dirt");
   const eioCapacitors = ["basic", "double_layer", "octadic"];
   const eioBatteries = ["basic", "advanced", "vibrant"];
   // eio base thruster
