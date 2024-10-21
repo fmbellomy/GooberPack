@@ -1,4 +1,12 @@
 ServerEvents.recipes((event) => {
+  event.shaped("modern_industrialization:greenhouse", ["RMR", "SBS", "CPC"], {
+    R: "modern_industrialization:tin_rotor",
+    M: "modern_industrialization:motor",
+    S: "modern_industrialization:steel_machine_casing_pipe",
+    B: "modern_industrialization:basic_machine_hull",
+    C: "modern_industrialization:analog_circuit",
+    P: "modern_industrialization:pump",
+  });
   function generateGreenhouseRecipes(
     sapling,
     out,
