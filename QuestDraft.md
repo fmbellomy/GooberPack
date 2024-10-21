@@ -6,6 +6,9 @@
   - [ ] A note about EMI
 
   1. A Forge Mod (forge hammer)
+
+     - [ ] A note about the MI "Industrialist" Villager
+
   2. Steamed Hams (bronze boiler, bronze pump)
 
   - [ ] Some machines you will probably want

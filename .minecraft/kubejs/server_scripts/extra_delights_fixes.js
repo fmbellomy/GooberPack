@@ -12,7 +12,7 @@ ServerEvents.compostableRecipes((event) => {
     "extradelight:mint_leaf",
   ];
 
-  for (uncompostable in dumb_uncompostables) {
+  for (let uncompostable in dumb_uncompostables) {
     event.add(uncompostable, DEFAULT_COMPOST_RATE);
   }
 });

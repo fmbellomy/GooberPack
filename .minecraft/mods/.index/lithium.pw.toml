@@ -1,0 +1,13 @@
+filename = 'lithium-neoforge-0.14.0-snapshot+mc1.21.1-build.88.jar'
+name = 'Lithium'
+side = 'both'
+
+[download]
+hash = '773c7f7c34e05086c34acbcf7e5f3aede8c7e53cbf6198882a8025eb48ac45c559af8b518de0be69607460d03c0e1981cc58801201fb4a2c77367b3170b59d87'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gvQqBUqZ/versions/BrMIoIMv/lithium-neoforge-0.14.0-snapshot%2Bmc1.21.1-build.88.jar'
+
+[update.modrinth]
+mod-id = 'gvQqBUqZ'
+version = 'BrMIoIMv'
